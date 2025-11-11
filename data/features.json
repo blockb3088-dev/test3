@@ -1,0 +1,19 @@
+{
+  "main_features": [
+    {
+      "id": 1,
+      "name": "시간표 확인",
+      "description": "시간표를 만들기 기능."
+    },
+    {
+      "id": 2,
+      "name": "중고장터",
+      "description": "실뢰성 기반 안전거래."
+    },
+    {
+      "id": 3,
+      "name": "택시 동승자 구인",
+      "description": "택시 동승자 구인 게시판 운영."
+    }
+  ]
+}

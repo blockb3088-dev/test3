@@ -1,0 +1,21 @@
+{
+  "team_name": "Team Awesome",
+  "collaboration_style": "주 2회 오프라인 회의, 매일 스크럼 진행, GitHub Issues 및 Projects 활용",
+  "members": [
+    {
+      "name": "김영한",
+      "role": "팀장",
+      "responsibilities": "총괄 및 ppt,보고서 제작, 프론트엔드"
+    },
+    {
+      "name": "김동주",
+      "role": "팀원",
+      "responsibilities": "제작 총괄 및 백엔드"
+    },
+    {
+      "name": "김도환",
+      "role": "팀원",
+      "responsibilities": "벡엔드 및 제작보조"
+    }
+  ]
+}

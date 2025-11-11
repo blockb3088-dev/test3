@@ -1,0 +1,8 @@
+{
+  "development_language": "Python, JavaScript",
+  "framework": "Flask, React.js",
+  "database": "PostgreSQL (RDS)",
+  "deployment_environment": "AWS (EC2, ECS), Docker",
+  "version_control": "Git, GitHub",
+  "tools": "VSCode, Postman, Docker Desktop"
+}
